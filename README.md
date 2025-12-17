@@ -29,7 +29,7 @@
 * Fixed: від 0.37 до 163.64 мс
 * Dynamic: від 0.88 до 1386.71 мс
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 * initial capacity = 32
 
@@ -37,7 +37,7 @@
 * Fixed: 0.23–223.98 мс
 * Dynamic: 0.66–1517.61 мс
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 * initial capacity = 128
 
@@ -45,7 +45,7 @@
 * Fixed: 0.06–145.35 мс
 * Dynamic: 0.11–1380.18 мс
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ### Висновки
 | Strategy    | Загалом                          |
